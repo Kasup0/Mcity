@@ -11,6 +11,8 @@ const Footer = () => {
             Manchester city 2023. All rights reserved
           </div>
         </footer>
+      
+        
       );
 }
 
